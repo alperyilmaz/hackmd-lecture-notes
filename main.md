@@ -148,7 +148,7 @@ Please write down your concerns about this lecture:
 * **Musab Orak** : I am worried about how  exams will be healthly
 
 
-
+<!-- faq.md -->
 {%hackmd 6l3i6m5ORqGHCeqit6ciTA %}
 
 ---
