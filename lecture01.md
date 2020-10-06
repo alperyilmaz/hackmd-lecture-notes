@@ -1,3 +1,8 @@
+---
+title: Lecture01
+tags: bym4081gr2
+---
+
 Lecture 1 - Introduction
 ---
 
