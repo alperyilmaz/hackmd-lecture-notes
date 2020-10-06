@@ -1,6 +1,12 @@
+---
+title: faq
+tags: bym4081gr2
+hackmd_id: 6l3i6m5ORqGHCeqit6ciTA
+---
+
 [![hackmd-github-sync-badge](https://hackmd.io/6l3i6m5ORqGHCeqit6ciTA/badge)](https://hackmd.io/6l3i6m5ORqGHCeqit6ciTA)
 ## FAQ
-<!-- 6l3i6m5ORqGHCeqit6ciTA -->
+
 * Do we need to install R in our <i class="fa fa-desktop"></i>?
   - No, you don't have to install. We'll be using rstudio.cloud website and our lecture notes will be also available at that site.
 * Will the groups be random in breakout rooms during the practices
