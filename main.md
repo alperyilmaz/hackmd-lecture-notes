@@ -19,7 +19,6 @@ Hi everyone! This is an online real-time collaborative editor so that you can sh
 
 You can get pretty creative here; bold or italic format, images, tables, links, lists, quotes, formatted code, todo items and emojis can be inserted in text. Please visit the help page by clicking the `?` icon on top of the page.
 
----
 
 Before we start let's get some demographics.
 
@@ -33,7 +32,7 @@ Before we start let's get some demographics.
 
 - [x] If students don't know their classmates, arrange breakout rooms
 
----
+
 
 ## Introduce yourself
 
@@ -78,7 +77,7 @@ Please introduce yourself with one or two sentences (esp. tell about your intere
 * **Yağmur Zengin** : Tissue engineering
 * **Zeynep Yıldız** : interested in biomechatronics , biomaterials
 
----
+
 
 ## What are your expectations
 
@@ -116,7 +115,7 @@ Please write down your expectations from this lecture:
 * **Zeynep Yıldız** : ı hope to interpret the biological data 
 * **Tuğba Nur Özkan**: Interested in bioinformatics.
 
----
+
 
 ## What are your concerns ? :worried:
 
@@ -148,18 +147,13 @@ Please write down your concerns about this lecture:
 * **Ayşenur Arslan** : I think it is not hard to learn if we study enough. 
 * **Musab Orak** : I am worried about how  exams will be healthly
 
----
 
-## FAQ
 
-* Do we need to install R in our <i class="fa fa-desktop"></i>?
-  - No, you don't have to install. We'll be using rstudio.cloud website and our lecture notes will be also available at that site.
-* Will the groups be random in breakout rooms during the practices
-  - Due to Zoom's incapabilities, we might assign random member in each session. Also, some practices might require individual participation.
+{%hackmd 6l3i6m5ORqGHCeqit6ciTA %}
 
 ---
 
-{%youtube uETXae8jlvo %}
+
 
 
 ## Todo for next week
