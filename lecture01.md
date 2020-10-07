@@ -1,10 +1,11 @@
 ---
 title: Lecture01
 tags: bym4081gr2
+hackmd_id: -GpUGHQCQLCqFmtPItIv4w
 ---
 
 ## Welcome !
-<!-- -GpUGHQCQLCqFmtPItIv4w -->
+
 Hi everyone! This is an online real-time collaborative editor so that you can share your findings or course related material.
 
 You can get pretty creative here; bold or italic format, images, tables, links, lists, quotes, formatted code, todo items and emojis can be inserted in text. Please visit the help page by clicking the `?` icon on top of the page.
