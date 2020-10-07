@@ -3,9 +3,7 @@ title: Lecture01
 tags: bym4081gr2
 ---
 
-Lecture 1 - Introduction
----
-
+## Welcome !
 <!-- -GpUGHQCQLCqFmtPItIv4w -->
 Hi everyone! This is an online real-time collaborative editor so that you can share your findings or course related material.
 
@@ -105,7 +103,7 @@ Please write down your expectations from this lecture:
 * **Ayşenur Arslan** : learning the requires of the lecture and linear modelling. 
 * **Tuğçe Yeşilyurt** : Learning modelling  wtihin in the context of Bioengineering approaches
 * **Zeynep Yıldız** : ı hope to interpret the biological data 
-* **Tuğba Nur Özkan**: Interested in bioinformatics.
+
 
 
 
